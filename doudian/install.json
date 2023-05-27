@@ -1,0 +1,15 @@
+{
+  "version": "1.0.5",
+  "notes": "See the assets to download this version and install.",
+  "pub_date": "2023-05-27T07:56:35.968Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK1ZWR2dvNkN0SXAzUGZvVUJ2WmRrY3pwc1lTVW5oeUlRNDUxeEo3ajVhd1N6cmVyK3lpc2N2RS9WOURTTnRsQWEwVFE1WlJHRnQyQ01MUFRnMTRYTnYvVXZoQmRNN3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg1MTczOTk3CWZpbGU6ZG91ZGlhbi1jbGllbnQuYXBwLnRhci5negppdWpFbjM3NGplVjB6S1h2VHo4N2FQekR4RDR5QkJSbVlnL3BFUkJpaGd1bE1uZFNqbUhlOFdsVXJDNHJBOGF0U29Bc2E0Y2c5angzTmxqdmtjMVBBZz09Cg==",
+      "url": "https://github.com/mindnoop/doudian-client/releases/download/v1.0.5/doudian-client_x64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK1ZWR2dvNkN0SWhRL1g1MFBPSTA5eGY3ZlA0RXhpYTFEZlJVb1FoRGZNc2lkcEZKTWxrNUxHMmJEL0MvT1hQYkRsRmQzQnJPZTl6cWozZGxQWkF4azFWL1A0bkRQckF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg1MTc0MTkwCWZpbGU6ZG91ZGlhbi1jbGllbnRfMS4wLjVfeDY0X2VuLVVTLm1zaS56aXAKeHM2M0FPOFNoTGhEUnpJamNoNnRWOTNLdFBMZ3VIVjFxTXE2Ukxtekhad04xM1ZEeFBkZHRZOEVtMkJSalkramQ1bXU2eHAzcEE2ZFNXTFFMQ0JlQmc9PQo=",
+      "url": "https://github.com/mindnoop/doudian-client/releases/download/v1.0.5/doudian-client_1.0.5_x64_en-US.msi.zip"
+    }
+  }
+}
